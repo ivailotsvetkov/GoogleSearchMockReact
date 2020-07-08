@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GoogleSearchMockReact/static/css/main.b1625bb6.chunk.css",
+    "main.js": "/GoogleSearchMockReact/static/js/main.d33c54af.chunk.js",
+    "main.js.map": "/GoogleSearchMockReact/static/js/main.d33c54af.chunk.js.map",
+    "runtime-main.js": "/GoogleSearchMockReact/static/js/runtime-main.94173b6d.js",
+    "runtime-main.js.map": "/GoogleSearchMockReact/static/js/runtime-main.94173b6d.js.map",
+    "static/js/2.d516b782.chunk.js": "/GoogleSearchMockReact/static/js/2.d516b782.chunk.js",
+    "static/js/2.d516b782.chunk.js.map": "/GoogleSearchMockReact/static/js/2.d516b782.chunk.js.map",
+    "index.html": "/GoogleSearchMockReact/index.html",
+    "precache-manifest.f0c965e0f2d3308090d133fa0cd81a9f.js": "/GoogleSearchMockReact/precache-manifest.f0c965e0f2d3308090d133fa0cd81a9f.js",
+    "service-worker.js": "/GoogleSearchMockReact/service-worker.js",
+    "static/css/main.b1625bb6.chunk.css.map": "/GoogleSearchMockReact/static/css/main.b1625bb6.chunk.css.map",
+    "static/js/2.d516b782.chunk.js.LICENSE.txt": "/GoogleSearchMockReact/static/js/2.d516b782.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/GoogleSearchMockReact/static/media/logo.ce621bfc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94173b6d.js",
+    "static/js/2.d516b782.chunk.js",
+    "static/css/main.b1625bb6.chunk.css",
+    "static/js/main.d33c54af.chunk.js"
+  ]
+}
