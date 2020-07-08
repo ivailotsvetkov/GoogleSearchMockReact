@@ -14,7 +14,7 @@ import NotificationsNoneIcon from '@material-ui/icons/NotificationsNone';
 import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 
 function Searchbox() {
-    debugger
+    //default search
     const searchString = "google search result page"
     const result = data.data
     const time = data.time

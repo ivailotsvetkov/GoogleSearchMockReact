@@ -1,4 +1,4 @@
-/*const express = require("express");
+const express = require("express");
 const app = express();
 
 app.use("/public", express.static(__dirname + "/public"))
@@ -10,4 +10,3 @@ app.get("/", (req, res) => {
 app.listen(1337, () => {
   console.log("The server is up and running!");
 });
-*/
