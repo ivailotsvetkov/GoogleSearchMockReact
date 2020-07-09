@@ -1,6 +1,6 @@
 Mock-up page of the resulting Google Search Page, which can be accessed at https://ivailotsvetkov.github.io/GoogleSearchMockReact/. Use Google Chrome.
-# Type in "google search result page" and press Enter
-### JS Questions
+### Type in "google search result page" and press Enter
+# JS Questions
 1. postMessage - The window.postMessage() method safely enables cross-origin communication between Window objects; e.g., between a page and a pop-up that it spawned, or between a page and an iframe embedded within it. I didn't use it because I didn't create an initial search page. If I did I would use it to communicate between the two pages.
 2. Hooks - They let you use state and other React features without writing a class. Hooks are backwards-compatible. A Hook is a special function that lets you “hook into” React features. For example, useState is a Hook that lets you add React state to function components. When would I use a Hook? If you write a function component and realize you need to add some state to it, previously you had to convert it to a class. Now you can use a Hook inside the existing function component.
 3. HOC - A higher-order component (HOC) is an advanced technique in React for reusing component logic. HOCs are not part of the React API, per se. They are a pattern that emerges from React’s compositional nature. Concretely, a higher-order component is a function that takes a component and returns a new component. Whereas a component transforms props into UI, a higher-order component transforms a component into another component. HOCs are common in third-party React libraries, such as Redux’s connect and Relay’s createFragmentContainer.Mutating HOCs are a leaky abstraction—the consumer must know how they are implemented in order to avoid conflicts with other HOCs. Instead of mutation, HOCs should use composition, by wrapping the input component in a container component.
@@ -14,7 +14,7 @@ Advantages:
 * Testing and debugging is easier. Since pure functions take only arguments and produce output, they don’t produce any changes don’t take input or produce some hidden output. They use immutable values, so it becomes easier to check some problems in programs written uses pure functions.
 * It is used to implement concurrency/parallelism because pure functions don’t change variables or any other data outside of it.
 * It adopts lazy evaluation which avoids repeated evaluation because the value is evaluated and stored only when it is needed.
-### Bonus
+## Bonus
 2. If you start from scratch, what tools/frameworks/library will you choose?
 * React - Simplicity
 
